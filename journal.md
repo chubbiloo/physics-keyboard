@@ -9,7 +9,10 @@ A: I finished making the list of symbols. We have 43 in total. We will add two s
 8/11~8/12 (2 hours)
 R: came up with draft designs of the keyboard, how keys are arranged and activated. also how the keyboard itself looks like.
 
-8/12 (1 hour)
+8/12 (2 hours)
+A: set up KiCad, finished schematic and assigned footprints. The key matrix uses 12 GPIO pins for 6 cols and 6 rows.
+
+8/12 (2 hours)
 A: started working on PCB, setting the grid spacing to a factor of 19.05mm allowed alignment of keys by snapping to the grid. the PCB is square with each side being (19.05*6)mm long. A 55x25mm protrusion makes space for mounting the Pico.
 
 8/13 (.5 hours)
