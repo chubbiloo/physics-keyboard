@@ -9,6 +9,9 @@ A: I finished making the list of symbols. We have 43 in total. We will add two s
 8/11~8/12 (2 hours)
 R: came up with draft designs of the keyboard, how keys are arranged and activated. also how the keyboard itself looks like.
 
+8/12 (1 hour)
+A: started working on PCB, setting the grid spacing to a factor of 19.05mm allowed alignment of keys by snapping to the grid. the PCB is square with each side being (19.05*6)mm long. A 55x25mm protrusion makes space for mounting the Pico.
+
 8/13 (.5 hours)
 We called in the morning to figure out how to add text onto keycaps in Tinkercad. We imported a blank keycap from Printables, added text and aligned the text with the keys so that the symbol is embossed on top of it
 
