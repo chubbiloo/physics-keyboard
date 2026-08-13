@@ -3,6 +3,7 @@ Today we started brainstorming what keys we wanted to include in the keyboard. W
 
 ![Character table](images/8-11-img1.png)
 
-
+8/11 (2 hours)
+A: I finished making the list of symbols. We have 43 in total. We will add two shift keys to the keyboard to reduce the amount of keys needed. I also classified each symbol so that R can arrange them so that similar symbols are clustered together. 
 
 
