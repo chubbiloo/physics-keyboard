@@ -42,3 +42,6 @@ Completed PCB routing. Red arrows showed DRC violation (insufficient spacing fro
 
 ![Final PCB with ground fill added](images/8-17-img3.png)
 Final PCB
+
+8/18 (1 hour)
+A: drafted the README
