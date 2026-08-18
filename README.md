@@ -2,7 +2,7 @@
 
 A 33-key mechanical keyboard for writing physics and math.
 
-[Layout](images/layout.png)
+![Layout](images/layout.png)
 
 [BOM](bom.csv)
 
