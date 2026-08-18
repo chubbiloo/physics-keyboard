@@ -2,6 +2,8 @@
 
 A 33-key mechanical keyboard for writing physics and math.
 
+[BOM](bom.csv)
+
 ## Features
 - Greek letter input
 - Math symbol input
