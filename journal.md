@@ -14,6 +14,7 @@ A: set up KiCad, finished schematic and assigned footprints. The key matrix uses
 
 8/12 (2 hours)
 A: started working on PCB, setting the grid spacing to a factor of 19.05mm allowed alignment of keys by snapping to the grid. the PCB is square with each side being (19.05*6)mm long. A 55x25mm protrusion makes space for mounting the Pico.
+Originally, the Pico was meant to be centred at the top side of the keys, but we moved it to the upper left for improved microUSB port accessibility.
 
 8/13 (.5 hours)
 We called in the morning to figure out how to add text onto keycaps in Tinkercad. We imported a blank keycap from Printables, added text and aligned the text with the keys so that the symbol is embossed on top of it
