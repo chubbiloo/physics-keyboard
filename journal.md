@@ -35,5 +35,6 @@ A: finished routing the PCB. Added a 1 mm margin to all sides of the PCB to fit 
 Stabilizer mounting holes not fitting within original boundary
 
 ![Final PCB routing](images/8-17-img2.png)
+Completed PCB routing. Red arrows showed DRC violation (insufficient spacing from edge for diodes) which was fixed by adding margin.
 
 ![Final PCB with ground fill added](images/8-17-img3.png)
