@@ -38,3 +38,4 @@ Stabilizer mounting holes not fitting within original boundary
 Completed PCB routing. Red arrows showed DRC violation (insufficient spacing from edge for diodes) which was fixed by adding margin.
 
 ![Final PCB with ground fill added](images/8-17-img3.png)
+Final PCB
