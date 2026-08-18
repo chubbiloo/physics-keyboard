@@ -29,6 +29,7 @@ A: started routing the PCB. Adjusted pin mapping so that traces do not need to c
 We also decided to add a right shift key and Unicode/LaTeX toggle key, expanding the keyboard to a 6x6 grid today
 
 ![Final schematic](images/8-14-img1.png)
+Schematic after pin remapping
 
 8/17 (4 hours)
 A: finished routing the PCB. Added a 1 mm margin to all sides of the PCB to fit stabilizer mounting holes. Moved the Pico slightly so that microUSB port sticks out. Added ground fill to both faces, ran DRC, checked 3D model
