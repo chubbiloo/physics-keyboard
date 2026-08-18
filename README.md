@@ -3,7 +3,6 @@
 A 33-key mechanical keyboard for writing physics and math.
 
 <img src="images/layout.png" width="50%" alt="Layout">
-Keyboard layout
 
 [BOM](bom.csv)
 
