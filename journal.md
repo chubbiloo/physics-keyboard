@@ -15,6 +15,7 @@ A: set up KiCad, finished schematic and assigned footprints. The key matrix uses
 8/12 (2 hours)
 A: started working on PCB, setting the grid spacing to a factor of 19.05mm allowed alignment of keys by snapping to the grid. the PCB is square with each side being (19.05*6)mm long. A 55x25mm protrusion makes space for mounting the Pico.
 Originally, the Pico was meant to be centred at the top side of the keys, but we moved it to the upper left for improved microUSB port accessibility.
+![Placement of switch footprints](images/8-12-img1.png)
 
 8/13 (.5 hours)
 We called in the morning to figure out how to add text onto keycaps in Tinkercad. We imported a blank keycap from Printables, added text and aligned the text with the keys so that the symbol is embossed on top of it
@@ -28,3 +29,5 @@ We also decided to add a right shift key and Unicode/LaTeX toggle key, expanding
 
 8/17 (4 hours)
 A: finished routing the PCB. Added a 1 mm margin to all sides of the PCB to fit stabilizer mounting holes. Moved the Pico slightly so that microUSB port sticks out. Added ground fill to both faces, ran DRC, checked 3D model
+
+![Stabilizer mounting holes not fitting inside original boundary](images/8-17-img1.png)
