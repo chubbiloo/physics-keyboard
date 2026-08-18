@@ -20,3 +20,13 @@ We called in the morning to figure out how to add text onto keycaps in Tinkercad
 
 8/13~8/15 （4 hours)
 R: finished cad design of key caps and keyboard with rough dimensions
+
+8/14 (1.5 hours)
+A: finished schematic and assigned footprints. 
+We also decided to add a right shift key and Unicode/LaTeX toggle key, expanding the keyboard to a 6x6 grid today
+
+8/16 (1 hour)
+A: started routing the PCB
+
+8/17 (4 hours)
+A: finished routing the PCB. Added a 1 mm margin to all sides of the PCB to fit stabilizer mounting holes. Moved the Pico slightly so that microUSB port sticks out. Added ground fill to both faces, ran DRC, checked 3D model
