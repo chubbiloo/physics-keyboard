@@ -11,7 +11,9 @@ A 33-key mechanical keyboard for writing physics and math.
 
 ## Tools
 PCB design: KiCad, marbastlib
+
 Case and plate CAD: OnShape
+
 Firmware: RMK 
 
 ## Motivation
