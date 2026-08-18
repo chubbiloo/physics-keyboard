@@ -9,6 +9,11 @@ A 33-key mechanical keyboard for writing physics and math.
 - Compact square shape; similar in size to a large numpad/macropad
 - Caps Lock-like key allows switching between LaTeX and plain unicode input
 
+## Tools
+PCB design: KiCad, marbastlib
+Case and plate CAD: OnShape
+Firmware: RMK 
+
 ## Motivation
 In our last years of high school, we wrote several lab reports in IB Physics which required us to input mathematical equations. We built this keyboard to make that process easier, in our classes in university.
 
