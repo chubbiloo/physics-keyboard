@@ -1,0 +1,15 @@
+Item,Unit Price,Count,Total Price,Link,Notes
+1N4148 diode ,0.089,33,2.94,https://www.digikey.ca/en/products/detail/onsemi/1N4148/458603,
+Keychron K Pro Mint switch,,110,29.99,https://www.canadacomputers.com/en/keyboard-switches/261218/keychron-keychron-k-pro-switch-mint-110pcs-g149.html,
+Raspberry Pi Pico,6.83,1,6.83,https://www.digikey.ca/en/products/detail/raspberry-pi/SC0915/13624793,
+"Stabilizers (7 x 2u, 1 x 6.25u)",9.38,1,9.38,https://www.aliexpress.com/item/1005006528731543.html,
+"M2 heatset inserts (OD 3.5mm, L 4mm)",,50,1.89,https://www.aliexpress.com/item/1005007946200223.html,
+20-pin header,0.45,2,0.90,https://www.digikey.ca/en/products/detail/same-sky-formerly-cui-devices/SSK01-MPH-254-A20/28772188,
+Digikey shipping,,,15.00,,
+Aliexpress shipping,,,3.50,,
+PCB,,5,16.94,,Ordered from JLCPCB
+JLCPCB discounts,,,-13.97,,By applying coupon and ordering on desktop app
+JLCPCB shipping,,,12.98,,
+,,,,,
+Subtotal,,,86.38,,
+Total including 13% HST,,,97.61,,
