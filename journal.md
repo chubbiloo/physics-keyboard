@@ -8,12 +8,12 @@ A: I finished making the list of symbols. We have 43 in total. We will add two s
 
 8/11 (1 hour)
 R: came up with draft designs of the keyboard, how keys are arranged and activated. also how the keyboard itself looks like.
-![design 1](images/8-11-img1.png)
+![design 1](images/8-11-img2.jpg)
 
 
 8/12 (2 hours)
 A: set up KiCad, finished schematic and assigned footprints. The key matrix uses 12 GPIO pins for 6 cols and 6 rows. improved keyboard design
-![design 3](images/8-12-img1.png)
+![design 2](images/8-12-img2.webp)
 
 8/12 (2 hours)
 A: started working on PCB, setting the grid spacing to a factor of 19.05mm allowed alignment of keys by snapping to the grid. the PCB is square with each side being (19.05*6)mm long. A 55x25mm protrusion makes space for mounting the Pico.
@@ -27,7 +27,7 @@ We called in the morning to figure out how to add text onto keycaps in Tinkercad
 
 8/13 (3 hours)
 R: imported key cap design and extruded symbols in tinkercad, learning how tinkercad works in the process
-![key cap design 1](image/8-13-img2.png)
+![key cap design 1](image/8-13-img1.png)
 
 
 8/14 (1.5 hours)
@@ -70,4 +70,5 @@ A: drafted the README.
 8/18 (3 hours)
 together: imported step model of pcb to onshape, finished the 3d model, improving and changing designs, and assembling everything
 ![final cad 1](images/8-18-img1.png)
+![final cad 2](images/8-18-img2.webp)
 
