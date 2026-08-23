@@ -1,5 +1,5 @@
 8/11 (1 hour)
-Today we started brainstorming what keys we wanted to include in the keyboard. We wanted to have it be an add-on (like a macropad) to a standard keyboard, so we decided to exclude symbols (e.g. letters) that could already be typed easily. By referring to a physics formula booklet, we started building this table:
+together: Today we started brainstorming what keys we wanted to include in the keyboard. We wanted to have it be an add-on (like a macropad) to a standard keyboard, so we decided to exclude symbols (e.g. letters) that could already be typed easily. By referring to a physics formula booklet, we started building this table:
 
 ![Character table](images/8-11-img1.png)
 
@@ -61,14 +61,17 @@ Completed PCB routing. Red arrows showed DRC violation (insufficient spacing fro
 Final PCB
 
 8/17 (2 hours)
-R: making the keyboard plate in onshape and trying to assemble
+R: made the keyboard plate in OnShape with linear pattern tool
 ![keyboard case 2](image/8-17-img4.png)
 
 8/18 (4 hours)
 A: drafted the README. 
 
 8/18 (3 hours)
-together: imported step model of pcb to onshape, finished the 3d model, improving and changing designs, and assembling everything
+together: imported step model of PCB to OnShape, designed case with standoffs for tray mounting that fit threaded inserts. reviewed design and mated all parts in OnShape
 ![final cad 1](images/8-18-img1.png)
 ![final cad 2](images/8-18-img2.webp)
+
+8/18 (1 hour)
+together: fixed lettering height; aligned lettering with DSA keycaps (our final choice)
 
