@@ -31,7 +31,7 @@ We called in the morning to figure out how to add text onto keycaps in Tinkercad
 
 8/13 (3 hours)
 R: imported key cap design and extruded symbols in tinkercad, learning how tinkercad works in the process
-![key cap design 1](image/8-13-img1.png)
+![key cap design 1](images/8-13-img1.png)
 
 
 8/14 (1.5 hours)
