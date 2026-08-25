@@ -43,13 +43,13 @@ Schematic after pin remapping
 
 8/14 (3 hours)
 R: finished key cap design in tinkercad
-![key cap design 2](image/8-14-img2.png)
+![key cap design 2](images/8-14-img2.png)
 
 
 
 8/16 (3 hours)
 R: making the keyboard case in onshape and learning how to use onshape
-![keyboard case 1](image/8-16-img1.png)
+![keyboard case 1](images/8-16-img1.png)
 
 
 8/17 (4 hours)
@@ -66,7 +66,7 @@ Final PCB
 
 8/17 (2 hours)
 R: made the keyboard plate in OnShape with linear pattern tool
-![keyboard case 2](image/8-17-img4.png)
+![keyboard case 2](images/8-17-img4.png)
 
 8/18 (4 hours)
 A: drafted the README. 
