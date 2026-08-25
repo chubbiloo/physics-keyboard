@@ -42,7 +42,7 @@ Schematic after pin remapping
 
 
 8/14 (3 hours)
-R: finished key cap design in tinkercad
+R: nearly finished key cap design in Tinkercad. Some special characters don't render properly and need to be made from other characters (or imported as svg)
 ![key cap design 2](images/8-14-img2.png)
 
 
