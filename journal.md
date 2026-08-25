@@ -74,4 +74,4 @@ together: imported step model of PCB to OnShape, designed case with standoffs fo
 
 8/18 (1 hour)
 together: fixed lettering height; aligned lettering with DSA keycaps (our final choice)
-
+![Keycap lettering](images/8-18-img3.png)
