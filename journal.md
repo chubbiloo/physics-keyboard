@@ -68,11 +68,11 @@ Final PCB
 R: made the keyboard plate in OnShape with linear pattern tool
 ![keyboard case 2](images/8-17-img4.png)
 
-8/18 (4 hours)
-A: drafted the README. 
-
 8/18 (3 hours)
-together: imported step model of PCB to OnShape, designed case with standoffs for tray mounting that fit threaded inserts. reviewed design and mated all parts in OnShape
+A: drafted the README and BOM
+
+8/18 (4 hours)
+together: imported step model of PCB to OnShape, designed case with standoffs for tray mounting that fit threaded inserts. They fit M2x8mm screws. The hole is 3.2mm in diameter x 4mm long (insert portion) and 2.2x4mm (remaining portion). Reviewed design and mated all parts in OnShape
 ![final cad 1](images/8-18-img1.png)
 ![final cad 2](images/8-18-img2.webp)
 
