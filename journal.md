@@ -1,6 +1,6 @@
 ---
 title: "Physics Keyboard"
-github: [Link to your Github Repo](https://github.com/chubbiloo/physics-keyboard/)
+github: "https://github.com/chubbiloo/physics-keyboard/"
 description: "A 33-key mechanical keyboard for writing physics and math."
 created_at: "2026-08-11"
 ---
