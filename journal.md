@@ -132,8 +132,8 @@ We originally submitted this project to the Keeb YSWS. After a 6-week pause, we 
 
 **A (3.2 hours):** I chose to use QMK because of its support for unicode input. I made a custom layout and a keymap with 4 layers: unicode, unicode-shift, LaTeX and LaTeX-shift. The built in LED on the Pico is turned on when LaTeX is enabled. I used macros for LaTeX output and UC() for unicode output. UC() supports code points up to 0x7FFF, which includes everything that we need. The firmware builds successfully, although we have yet to assemble the keeb and test it.
 
-![Keycap lettering]()
-![Keycap lettering]()
+![Keycap lettering](images/11-1-img1.png)
+![Keycap lettering](images/11-1-img2.png)
 *Hackatime screenshots*
 
 **Total time spent: 3.2 hours**
