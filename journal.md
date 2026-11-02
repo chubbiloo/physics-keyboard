@@ -107,7 +107,7 @@ By [Antony Zhang](https://github.com/chubbiloo) (A) and [Ryan Liu](https://githu
 
 # Aug 18: Final case assembly, keycap lettering, README and BOM
 
-**A (3 hours):** Drafted the README and BOM.
+**A (2.5 hours):** Drafted the README and BOM.
 
 **Together (4 hours):** Imported the STEP model of the PCB into Onshape and designed the case with standoffs for tray mounting. The standoffs take threaded inserts that fit M2x8mm screws. Each of the 5 holes is 3.2 mm in diameter × 4 mm long for the insert portion and 2.2 × 4 mm for the rest. We then mated all the parts in the assembly.
 
@@ -122,7 +122,7 @@ By [Antony Zhang](https://github.com/chubbiloo) (A) and [Ryan Liu](https://githu
 ![Keycap lettering](images/8-18-img3.png)
 *Keycap lettering*
 
-**Total time spent: 8 hours**
+**Total time spent: 7.5 hours**
 
 ---
 
