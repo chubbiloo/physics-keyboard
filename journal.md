@@ -123,3 +123,17 @@ By [Antony Zhang](https://github.com/chubbiloo) (A) and [Ryan Liu](https://githu
 *Keycap lettering*
 
 **Total time spent: 8 hours**
+
+---
+
+# Nov 1: Firmware
+
+We originally submitted this project to the Keeb YSWS. After a 6-week pause, we were told to submit our keyboard under Fabricate instead, and that we needed to write firmware.
+
+**A (3.2 hours):** I chose to use QMK because of its support for unicode input. I made a custom layout and a keymap with 4 layers: unicode, unicode-shift, LaTeX and LaTeX-shift. The built in LED on the Pico is turned on when LaTeX is enabled. I used macros for LaTeX output and UC() for unicode output. UC() supports code points up to 0x7FFF, which includes everything that we need. The firmware builds successfully, although we have yet to assemble the keeb and test it.
+
+![Keycap lettering]()
+![Keycap lettering]()
+*Hackatime screenshots*
+
+**Total time spent: 3.2 hours**
