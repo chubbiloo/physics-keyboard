@@ -4,7 +4,8 @@ A 33-key mechanical keyboard for writing physics and math.
 
 <img src="images/layout.png" width="50%" alt="Layout">
 
-[Keyboard CAD](https://cad.onshape.com/documents/456d751678d0acb379dca94c/w/f9c0283b08451eaa8f4377e7/e/df621b50bfa725ee81dee17f?renderMode=0&uiState=6ae811c2d8704748218f6017)
+[Main CAD](https://cad.onshape.com/documents/456d751678d0acb379dca94c/w/f9c0283b08451eaa8f4377e7/e/df621b50bfa725ee81dee17f?renderMode=0&uiState=6ae811c2d8704748218f6017)
+[Keycap CAD](https://www.tinkercad.com/things/8eVdOqgCMez-physics-keyboard-lettering)
 
 ## Features
 - Greek letter input
