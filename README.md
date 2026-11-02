@@ -20,7 +20,7 @@ A 33-key mechanical keyboard for writing physics and math.
 - Firmware: QMK
 
 ## Firmware
-WinCompose is required for unicode input on Windows. For Mac or Linux, change UNICODE_SELECTED_MODES in config.h. Copy this folder into your keyboards directory after [setting up QMK](https://docs.qmk.fm/newbs_getting_started). 
+WinCompose is required for unicode input on Windows. For Mac or Linux, change UNICODE_SELECTED_MODES in config.h. Copy [firmware/physics_keyboard](this folder) into your keyboards directory after setting up QMK, then buildand flash the firmware. [Docs](https://docs.qmk.fm/newbs_getting_started)
 
 ## Motivation
 In our last years of high school, we wrote several lab reports in IB Physics which required us to input mathematical equations. We built this keyboard to make that process easier, in our classes in university.
