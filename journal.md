@@ -136,7 +136,7 @@ We originally submitted this project to the Keeb YSWS. After a 6-week pause, we 
 ![Hackatime screenshot](images/11-1-img2.png)
 *Hackatime screenshots*
 
-![Building firmware](images/11-1-img3.png)
+![Building firmware](images/11-1-img5.png)
 ![Building firmware](images/11-1-img4.png)
 *Building firmware*
 
