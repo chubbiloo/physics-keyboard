@@ -17,10 +17,13 @@ A 33-key mechanical keyboard for writing physics and math.
 - PCB design: KiCad, marbastlib
 - Enclosure CAD: OnShape
 - Keycap lettering: Tinkercad
-- Firmware: RMK 
+- Firmware: QMK 
 
 ## Motivation
 In our last years of high school, we wrote several lab reports in IB Physics which required us to input mathematical equations. We built this keyboard to make that process easier, in our classes in university.
 
 ## What we learned
 Before this project, we wrote our formulae in the Google Docs equation editor. This project helped us learn LaTeX, a faster and more advanced tool than what we used previously. We also learned PCB design, including best practices for routing and design rule checking.
+
+## Firmware
+WinCompose is required for unicode input to work on Windows. For Mac or Linux, change UNICODE_SELECTED_MODES in config.h. Copy the folder into your keyboards directory after setting up QMK.
