@@ -26,4 +26,4 @@ In our last years of high school, we wrote several lab reports in IB Physics whi
 Before this project, we wrote our formulae in the Google Docs equation editor. This project helped us learn LaTeX, a faster and more advanced tool than what we used previously. We also learned PCB design, including best practices for routing and design rule checking.
 
 ## Firmware
-WinCompose is required for unicode input to work on Windows. For Mac or Linux, change UNICODE_SELECTED_MODES in config.h. Copy the folder into your keyboards directory after setting up QMK.
+WinCompose is required for unicode input on Windows. For Mac or Linux, change UNICODE_SELECTED_MODES in config.h. Copy the folder into your keyboards directory after setting up QMK.
