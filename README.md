@@ -2,11 +2,12 @@
 
 A 33-key mechanical keyboard for writing physics and math.
 
-<img src="images/layout.png" width="50%" alt="Layout">
+<img src="images/layout.png" width="75%" alt="Layout">
 <img src="images/8-14-img1.png" width="100%" alt="Layout">
 <img src="images/8-17-img3.png" width="75%" alt="Layout">
 <img src="images/8-18-img1.png" width="75%" alt="Layout">
 <img src="images/8-18-img2.webp" width="75%" alt="Layout">
+<img src="images/8-18-img3.png" width="75%" alt="Layout">
 
 
 [Main CAD](https://cad.onshape.com/documents/456d751678d0acb379dca94c/w/f9c0283b08451eaa8f4377e7/e/df621b50bfa725ee81dee17f?renderMode=0&uiState=6ae811c2d8704748218f6017)  
